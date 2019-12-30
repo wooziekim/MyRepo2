@@ -6,5 +6,6 @@ public class MainClass01 {
 		System.out.println("__");
 		System.out.println("___");
 		System.out.println("____");
+		System.out.println("작업완료");
 	}
 }
